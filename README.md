@@ -2,7 +2,7 @@
 
 A SQL case study on 150 feedlot steers: which animals turn feed into weight most cheaply, and what is that worth in rand?
 
-**Case study page:** https://claude.ai/artifact/3dDUeSHkda2fu5QP5CPDCL
+**Case study page:** https://maunatlala-tsheamo-bapela.github.io/feedlot-feed-efficiency-sql/
 
 **Interactive dashboard (Tableau Public):** https://public.tableau.com/views/FeedlotFeedEfficiency/FeedlotFeedEfficiencyDashboard
 
