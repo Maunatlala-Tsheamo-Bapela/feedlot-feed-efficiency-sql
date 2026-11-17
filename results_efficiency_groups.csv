@@ -1,0 +1,4 @@
+"rfi_group","n","avg_adg","avg_dmi","avg_fcr","avg_hcw_kg"
+"1 Efficient (low RFI)",51,1.63,10.39,6.58,398
+"2 Average",50,1.71,11.47,6.96,403
+"3 Inefficient (high RFI)",49,1.65,12.22,7.70,400

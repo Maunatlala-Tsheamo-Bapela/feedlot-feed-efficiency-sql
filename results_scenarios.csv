@@ -1,0 +1,4 @@
+"scenario","efficient_zar","inefficient_zar","advantage_per_animal_zar"
+"base",1046,376,670
+"high",331,-465,796
+"low",1768,1226,542
